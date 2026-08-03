@@ -1,0 +1,201 @@
+module MateArgentino
+{
+    craftRecipe CargarYerbaMate
+    {
+        timedAction = Making,
+        time = 30,
+        AllowBatchCraft = false,
+        Tags = InHandCraft;Cooking;CanBeDoneInDark,
+        category = Cooking,
+        inputs
+        {
+            item 1 [MateArgentino.MateVacio] mode:destroy flags[Prop1],
+            item 1 [MateArgentino.Yerba;MateArgentino.YerbaEconomica;MateArgentino.YerbaEconomica10;MateArgentino.YerbaEconomica11;MateArgentino.YerbaEconomica12;MateArgentino.YerbaEconomica13;MateArgentino.YerbaEconomica14;MateArgentino.YerbaEconomica15;MateArgentino.YerbaMedia;MateArgentino.YerbaMedia15;MateArgentino.YerbaMedia16;MateArgentino.YerbaMedia17;MateArgentino.YerbaMedia18;MateArgentino.YerbaMedia19;MateArgentino.YerbaMedia20;MateArgentino.YerbaMedia21;MateArgentino.YerbaMedia22;MateArgentino.YerbaMedia23;MateArgentino.YerbaMedia24;MateArgentino.YerbaMedia25;MateArgentino.YerbaPremium;MateArgentino.YerbaPremium25;MateArgentino.YerbaPremium26;MateArgentino.YerbaPremium27;MateArgentino.YerbaPremium28;MateArgentino.YerbaPremium29;MateArgentino.YerbaPremium30;MateArgentino.YerbaPremium31;MateArgentino.YerbaPremium32;MateArgentino.YerbaPremium33;MateArgentino.YerbaPremium34;MateArgentino.YerbaPremium35;MateArgentino.YerbaPremium36;MateArgentino.YerbaPremium37;MateArgentino.YerbaPremium38;MateArgentino.YerbaPremium39;MateArgentino.YerbaPremium40] mode:destroy flags[Prop2] mappers[yerbaState],
+        }
+        outputs
+        {
+            item 1 mapper:yerbaState,
+        }
+        itemMapper yerbaState
+        {
+            MateArgentino.MateConYerba12 = MateArgentino.Yerba,
+            MateArgentino.MateConYerba12 = MateArgentino.YerbaEconomica,
+            MateArgentino.MateConYerba10 = MateArgentino.YerbaEconomica10,
+            MateArgentino.MateConYerba11 = MateArgentino.YerbaEconomica11,
+            MateArgentino.MateConYerba12 = MateArgentino.YerbaEconomica12,
+            MateArgentino.MateConYerba13 = MateArgentino.YerbaEconomica13,
+            MateArgentino.MateConYerba14 = MateArgentino.YerbaEconomica14,
+            MateArgentino.MateConYerba15 = MateArgentino.YerbaEconomica15,
+            MateArgentino.MateConYerba20 = MateArgentino.YerbaMedia,
+            MateArgentino.MateConYerba15 = MateArgentino.YerbaMedia15,
+            MateArgentino.MateConYerba16 = MateArgentino.YerbaMedia16,
+            MateArgentino.MateConYerba17 = MateArgentino.YerbaMedia17,
+            MateArgentino.MateConYerba18 = MateArgentino.YerbaMedia18,
+            MateArgentino.MateConYerba19 = MateArgentino.YerbaMedia19,
+            MateArgentino.MateConYerba20 = MateArgentino.YerbaMedia20,
+            MateArgentino.MateConYerba21 = MateArgentino.YerbaMedia21,
+            MateArgentino.MateConYerba22 = MateArgentino.YerbaMedia22,
+            MateArgentino.MateConYerba23 = MateArgentino.YerbaMedia23,
+            MateArgentino.MateConYerba24 = MateArgentino.YerbaMedia24,
+            MateArgentino.MateConYerba25 = MateArgentino.YerbaMedia25,
+            MateArgentino.MateConYerba32 = MateArgentino.YerbaPremium,
+            MateArgentino.MateConYerba25 = MateArgentino.YerbaPremium25,
+            MateArgentino.MateConYerba26 = MateArgentino.YerbaPremium26,
+            MateArgentino.MateConYerba27 = MateArgentino.YerbaPremium27,
+            MateArgentino.MateConYerba28 = MateArgentino.YerbaPremium28,
+            MateArgentino.MateConYerba29 = MateArgentino.YerbaPremium29,
+            MateArgentino.MateConYerba30 = MateArgentino.YerbaPremium30,
+            MateArgentino.MateConYerba31 = MateArgentino.YerbaPremium31,
+            MateArgentino.MateConYerba32 = MateArgentino.YerbaPremium32,
+            MateArgentino.MateConYerba33 = MateArgentino.YerbaPremium33,
+            MateArgentino.MateConYerba34 = MateArgentino.YerbaPremium34,
+            MateArgentino.MateConYerba35 = MateArgentino.YerbaPremium35,
+            MateArgentino.MateConYerba36 = MateArgentino.YerbaPremium36,
+            MateArgentino.MateConYerba37 = MateArgentino.YerbaPremium37,
+            MateArgentino.MateConYerba38 = MateArgentino.YerbaPremium38,
+            MateArgentino.MateConYerba39 = MateArgentino.YerbaPremium39,
+            MateArgentino.MateConYerba40 = MateArgentino.YerbaPremium40,
+        }
+    }
+
+    craftRecipe CebarMate
+    {
+        timedAction = Making,
+        time = 20,
+        AllowBatchCraft = false,
+        Tags = InHandCraft;Cooking,
+        category = Cooking,
+        inputs
+        {
+            item 1 [MateArgentino.MateConYerba40;MateArgentino.MateConYerba39;MateArgentino.MateConYerba38;MateArgentino.MateConYerba37;MateArgentino.MateConYerba36;MateArgentino.MateConYerba35;MateArgentino.MateConYerba34;MateArgentino.MateConYerba33;MateArgentino.MateConYerba32;MateArgentino.MateConYerba31;MateArgentino.MateConYerba30;MateArgentino.MateConYerba29;MateArgentino.MateConYerba28;MateArgentino.MateConYerba27;MateArgentino.MateConYerba26;MateArgentino.MateConYerba25;MateArgentino.MateConYerba24;MateArgentino.MateConYerba23;MateArgentino.MateConYerba22;MateArgentino.MateConYerba21;MateArgentino.MateConYerba20;MateArgentino.MateConYerba19;MateArgentino.MateConYerba18;MateArgentino.MateConYerba17;MateArgentino.MateConYerba16;MateArgentino.MateConYerba15;MateArgentino.MateConYerba14;MateArgentino.MateConYerba13;MateArgentino.MateConYerba12;MateArgentino.MateConYerba11;MateArgentino.MateConYerba10;MateArgentino.MateConYerba9;MateArgentino.MateConYerba8;MateArgentino.MateConYerba7;MateArgentino.MateConYerba6;MateArgentino.MateConYerba5;MateArgentino.MateConYerba4;MateArgentino.MateConYerba3;MateArgentino.MateConYerba2;MateArgentino.MateConYerba1] mode:destroy flags[Prop2] mappers[mateState],
+            item 1 [MateArgentino.Termo] mode:keep flags[NotEmpty;Prop1],
+            -fluid 0.045 [Water],
+        }
+        outputs
+        {
+            item 1 mapper:mateState,
+        }
+        itemMapper mateState
+        {
+            MateArgentino.MatePreparado40 = MateArgentino.MateConYerba40,
+            MateArgentino.MatePreparado39 = MateArgentino.MateConYerba39,
+            MateArgentino.MatePreparado38 = MateArgentino.MateConYerba38,
+            MateArgentino.MatePreparado37 = MateArgentino.MateConYerba37,
+            MateArgentino.MatePreparado36 = MateArgentino.MateConYerba36,
+            MateArgentino.MatePreparado35 = MateArgentino.MateConYerba35,
+            MateArgentino.MatePreparado34 = MateArgentino.MateConYerba34,
+            MateArgentino.MatePreparado33 = MateArgentino.MateConYerba33,
+            MateArgentino.MatePreparado32 = MateArgentino.MateConYerba32,
+            MateArgentino.MatePreparado31 = MateArgentino.MateConYerba31,
+            MateArgentino.MatePreparado30 = MateArgentino.MateConYerba30,
+            MateArgentino.MatePreparado29 = MateArgentino.MateConYerba29,
+            MateArgentino.MatePreparado28 = MateArgentino.MateConYerba28,
+            MateArgentino.MatePreparado27 = MateArgentino.MateConYerba27,
+            MateArgentino.MatePreparado26 = MateArgentino.MateConYerba26,
+            MateArgentino.MatePreparado25 = MateArgentino.MateConYerba25,
+            MateArgentino.MatePreparado24 = MateArgentino.MateConYerba24,
+            MateArgentino.MatePreparado23 = MateArgentino.MateConYerba23,
+            MateArgentino.MatePreparado22 = MateArgentino.MateConYerba22,
+            MateArgentino.MatePreparado21 = MateArgentino.MateConYerba21,
+            MateArgentino.MatePreparado20 = MateArgentino.MateConYerba20,
+            MateArgentino.MatePreparado19 = MateArgentino.MateConYerba19,
+            MateArgentino.MatePreparado18 = MateArgentino.MateConYerba18,
+            MateArgentino.MatePreparado17 = MateArgentino.MateConYerba17,
+            MateArgentino.MatePreparado16 = MateArgentino.MateConYerba16,
+            MateArgentino.MatePreparado15 = MateArgentino.MateConYerba15,
+            MateArgentino.MatePreparado14 = MateArgentino.MateConYerba14,
+            MateArgentino.MatePreparado13 = MateArgentino.MateConYerba13,
+            MateArgentino.MatePreparado12 = MateArgentino.MateConYerba12,
+            MateArgentino.MatePreparado11 = MateArgentino.MateConYerba11,
+            MateArgentino.MatePreparado10 = MateArgentino.MateConYerba10,
+            MateArgentino.MatePreparado9 = MateArgentino.MateConYerba9,
+            MateArgentino.MatePreparado8 = MateArgentino.MateConYerba8,
+            MateArgentino.MatePreparado7 = MateArgentino.MateConYerba7,
+            MateArgentino.MatePreparado6 = MateArgentino.MateConYerba6,
+            MateArgentino.MatePreparado5 = MateArgentino.MateConYerba5,
+            MateArgentino.MatePreparado4 = MateArgentino.MateConYerba4,
+            MateArgentino.MatePreparado3 = MateArgentino.MateConYerba3,
+            MateArgentino.MatePreparado2 = MateArgentino.MateConYerba2,
+            MateArgentino.MatePreparado1 = MateArgentino.MateConYerba1,
+        }
+    }
+
+    craftRecipe CebarMateCaliente
+    {
+        timedAction = Making,
+        time = 20,
+        AllowBatchCraft = false,
+        Tags = InHandCraft;Cooking,
+        category = Cooking,
+        inputs
+        {
+            item 1 [MateArgentino.MateConYerba40;MateArgentino.MateConYerba39;MateArgentino.MateConYerba38;MateArgentino.MateConYerba37;MateArgentino.MateConYerba36;MateArgentino.MateConYerba35;MateArgentino.MateConYerba34;MateArgentino.MateConYerba33;MateArgentino.MateConYerba32;MateArgentino.MateConYerba31;MateArgentino.MateConYerba30;MateArgentino.MateConYerba29;MateArgentino.MateConYerba28;MateArgentino.MateConYerba27;MateArgentino.MateConYerba26;MateArgentino.MateConYerba25;MateArgentino.MateConYerba24;MateArgentino.MateConYerba23;MateArgentino.MateConYerba22;MateArgentino.MateConYerba21;MateArgentino.MateConYerba20;MateArgentino.MateConYerba19;MateArgentino.MateConYerba18;MateArgentino.MateConYerba17;MateArgentino.MateConYerba16;MateArgentino.MateConYerba15;MateArgentino.MateConYerba14;MateArgentino.MateConYerba13;MateArgentino.MateConYerba12;MateArgentino.MateConYerba11;MateArgentino.MateConYerba10;MateArgentino.MateConYerba9;MateArgentino.MateConYerba8;MateArgentino.MateConYerba7;MateArgentino.MateConYerba6;MateArgentino.MateConYerba5;MateArgentino.MateConYerba4;MateArgentino.MateConYerba3;MateArgentino.MateConYerba2;MateArgentino.MateConYerba1] mode:destroy flags[Prop2] mappers[mateState],
+            item 1 [MateArgentino.Termo] mode:keep flags[NotEmpty;Prop1],
+            -fluid 0.045 [HotWater],
+        }
+        outputs
+        {
+            item 1 mapper:mateState,
+        }
+        itemMapper mateState
+        {
+            MateArgentino.MatePreparadoCaliente40 = MateArgentino.MateConYerba40,
+            MateArgentino.MatePreparadoCaliente39 = MateArgentino.MateConYerba39,
+            MateArgentino.MatePreparadoCaliente38 = MateArgentino.MateConYerba38,
+            MateArgentino.MatePreparadoCaliente37 = MateArgentino.MateConYerba37,
+            MateArgentino.MatePreparadoCaliente36 = MateArgentino.MateConYerba36,
+            MateArgentino.MatePreparadoCaliente35 = MateArgentino.MateConYerba35,
+            MateArgentino.MatePreparadoCaliente34 = MateArgentino.MateConYerba34,
+            MateArgentino.MatePreparadoCaliente33 = MateArgentino.MateConYerba33,
+            MateArgentino.MatePreparadoCaliente32 = MateArgentino.MateConYerba32,
+            MateArgentino.MatePreparadoCaliente31 = MateArgentino.MateConYerba31,
+            MateArgentino.MatePreparadoCaliente30 = MateArgentino.MateConYerba30,
+            MateArgentino.MatePreparadoCaliente29 = MateArgentino.MateConYerba29,
+            MateArgentino.MatePreparadoCaliente28 = MateArgentino.MateConYerba28,
+            MateArgentino.MatePreparadoCaliente27 = MateArgentino.MateConYerba27,
+            MateArgentino.MatePreparadoCaliente26 = MateArgentino.MateConYerba26,
+            MateArgentino.MatePreparadoCaliente25 = MateArgentino.MateConYerba25,
+            MateArgentino.MatePreparadoCaliente24 = MateArgentino.MateConYerba24,
+            MateArgentino.MatePreparadoCaliente23 = MateArgentino.MateConYerba23,
+            MateArgentino.MatePreparadoCaliente22 = MateArgentino.MateConYerba22,
+            MateArgentino.MatePreparadoCaliente21 = MateArgentino.MateConYerba21,
+            MateArgentino.MatePreparadoCaliente20 = MateArgentino.MateConYerba20,
+            MateArgentino.MatePreparadoCaliente19 = MateArgentino.MateConYerba19,
+            MateArgentino.MatePreparadoCaliente18 = MateArgentino.MateConYerba18,
+            MateArgentino.MatePreparadoCaliente17 = MateArgentino.MateConYerba17,
+            MateArgentino.MatePreparadoCaliente16 = MateArgentino.MateConYerba16,
+            MateArgentino.MatePreparadoCaliente15 = MateArgentino.MateConYerba15,
+            MateArgentino.MatePreparadoCaliente14 = MateArgentino.MateConYerba14,
+            MateArgentino.MatePreparadoCaliente13 = MateArgentino.MateConYerba13,
+            MateArgentino.MatePreparadoCaliente12 = MateArgentino.MateConYerba12,
+            MateArgentino.MatePreparadoCaliente11 = MateArgentino.MateConYerba11,
+            MateArgentino.MatePreparadoCaliente10 = MateArgentino.MateConYerba10,
+            MateArgentino.MatePreparadoCaliente9 = MateArgentino.MateConYerba9,
+            MateArgentino.MatePreparadoCaliente8 = MateArgentino.MateConYerba8,
+            MateArgentino.MatePreparadoCaliente7 = MateArgentino.MateConYerba7,
+            MateArgentino.MatePreparadoCaliente6 = MateArgentino.MateConYerba6,
+            MateArgentino.MatePreparadoCaliente5 = MateArgentino.MateConYerba5,
+            MateArgentino.MatePreparadoCaliente4 = MateArgentino.MateConYerba4,
+            MateArgentino.MatePreparadoCaliente3 = MateArgentino.MateConYerba3,
+            MateArgentino.MatePreparadoCaliente2 = MateArgentino.MateConYerba2,
+            MateArgentino.MatePreparadoCaliente1 = MateArgentino.MateConYerba1,
+        }
+    }
+
+    craftRecipe VaciarMate
+    {
+        timedAction = Making,
+        time = 20,
+        AllowBatchCraft = false,
+        Tags = InHandCraft;Cooking;CanBeDoneInDark,
+        category = Cooking,
+        inputs
+        {
+            item 1 [MateArgentino.MateLavado] mode:destroy flags[Prop1],
+        }
+        outputs
+        {
+            item 1 MateArgentino.MateVacio,
+        }
+    }
+}

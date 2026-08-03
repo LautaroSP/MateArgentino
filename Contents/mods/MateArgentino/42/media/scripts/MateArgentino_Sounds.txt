@@ -1,0 +1,15 @@
+module Base
+{
+    sound MateArgentino_RuidoMate
+    {
+        category = Player,
+        loop = true,
+        clip
+        {
+            file = media/sound/MateArgentino_RuidoMate.mp3,
+            distanceMax = 12,
+            volume = 0.8,
+        }
+    }
+}
+

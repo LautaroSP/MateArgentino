@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animNode>
+	<m_Name>DrinkMate</m_Name>
+	<m_AnimName>Bob_MateSip</m_AnimName>
+	<m_Looped>true</m_Looped>
+	<m_BlendTime>0.15</m_BlendTime>
+	<m_SpeedScale>1.00</m_SpeedScale>
+	<m_SyncTrackingEnabled>false</m_SyncTrackingEnabled>
+	<m_Conditions x_name="4d5b655f-ea81-4dce-9684-ccca6bc37e02">
+		<m_Name>PerformingAction</m_Name>
+		<m_Type>STRING</m_Type>
+		<m_Value>drink</m_Value>
+	</m_Conditions>
+	<m_Conditions x_name="28d915d2-ddfa-4de2-819e-a8a2f5b1d1c9">
+		<m_Name>FoodType</m_Name>
+		<m_Type>STRING</m_Type>
+		<m_Value>mate</m_Value>
+	</m_Conditions>
+	<m_Events x_name="f954ba7c-018c-4c51-9ca1-c1dd205ca8ac">
+		<m_EventName>MateSoundStart</m_EventName>
+		<m_TimePc>0.3387</m_TimePc>
+		<m_ParameterValue></m_ParameterValue>
+	</m_Events>
+	<m_Events x_name="bb725c28-93c1-475d-a80d-673f66011892">
+		<m_EventName>MateSoundStop</m_EventName>
+		<m_TimePc>0.6613</m_TimePc>
+		<m_ParameterValue></m_ParameterValue>
+	</m_Events>
+	<m_SubStateBoneWeights>
+		<boneName>Bip01_Spine</boneName>
+		<weight>0.50</weight>
+		<includeDescendants>false</includeDescendants>
+	</m_SubStateBoneWeights>
+	<m_SubStateBoneWeights>
+		<boneName>Bip01_Spine1</boneName>
+		<includeDescendants>false</includeDescendants>
+	</m_SubStateBoneWeights>
+	<m_SubStateBoneWeights>
+		<boneName>Bip01_Neck</boneName>
+		<includeDescendants>false</includeDescendants>
+	</m_SubStateBoneWeights>
+	<m_SubStateBoneWeights>
+		<boneName>Bip01_Head</boneName>
+	</m_SubStateBoneWeights>
+	<m_SubStateBoneWeights>
+		<boneName>Bip01_Prop2</boneName>
+	</m_SubStateBoneWeights>
+	<m_SubStateBoneWeights>
+		<boneName>Bip01_L_Clavicle</boneName>
+	</m_SubStateBoneWeights>
+</animNode>

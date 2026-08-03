@@ -1,0 +1,50 @@
+module MateArgentino
+{
+    fluid HotWater
+    {
+        ColorReference = LightSkyBlue,
+        DisplayName = Fluid_Name_MateArgentino_HotWater,
+        Categories
+        {
+            Beverage,
+            Water,
+        }
+        Properties
+        {
+            ThirstChange = -50.0,
+        }
+    }
+
+    fluid MateInfusion
+    {
+        ColorReference = PaleGreen,
+        DisplayName = Fluid_Name_MateArgentino_MateInfusion,
+        Categories
+        {
+            Beverage,
+        }
+        Properties
+        {
+            ThirstChange = -333.333,
+            UnhappyChange = -133.333,
+            Calories = 66.667,
+        }
+    }
+
+    fluid MateInfusionHot
+    {
+        ColorReference = PaleGreen,
+        DisplayName = Fluid_Name_MateArgentino_MateInfusionHot,
+        Categories
+        {
+            Beverage,
+        }
+        Properties
+        {
+            ThirstChange = -333.333,
+            fatigueChange = -177.778,
+            UnhappyChange = -133.333,
+            Calories = 66.667,
+        }
+    }
+}

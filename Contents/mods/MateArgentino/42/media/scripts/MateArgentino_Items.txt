@@ -1,0 +1,3188 @@
+module MateArgentino
+{
+
+    item Yerba
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = Yerba,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaEconomica3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaEconomica,
+    }
+
+    item YerbaEconomica
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = Yerba,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaEconomica3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaEconomica,
+    }
+
+    item YerbaEconomica10
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = Yerba,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaEconomica3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaEconomica,
+    }
+
+    item YerbaEconomica11
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = Yerba,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaEconomica3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaEconomica,
+    }
+
+    item YerbaEconomica12
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = Yerba,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaEconomica3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaEconomica,
+    }
+
+    item YerbaEconomica13
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = Yerba,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaEconomica3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaEconomica,
+    }
+
+    item YerbaEconomica14
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = Yerba,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaEconomica3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaEconomica,
+    }
+
+    item YerbaEconomica15
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = Yerba,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaEconomica3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaEconomica,
+    }
+
+    item YerbaMedia
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaMedia,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaMedia3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaMedia,
+    }
+
+    item YerbaMedia15
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaMedia,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaMedia3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaMedia,
+    }
+
+    item YerbaMedia16
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaMedia,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaMedia3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaMedia,
+    }
+
+    item YerbaMedia17
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaMedia,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaMedia3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaMedia,
+    }
+
+    item YerbaMedia18
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaMedia,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaMedia3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaMedia,
+    }
+
+    item YerbaMedia19
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaMedia,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaMedia3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaMedia,
+    }
+
+    item YerbaMedia20
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaMedia,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaMedia3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaMedia,
+    }
+
+    item YerbaMedia21
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaMedia,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaMedia3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaMedia,
+    }
+
+    item YerbaMedia22
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaMedia,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaMedia3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaMedia,
+    }
+
+    item YerbaMedia23
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaMedia,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaMedia3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaMedia,
+    }
+
+    item YerbaMedia24
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaMedia,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaMedia3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaMedia,
+    }
+
+    item YerbaMedia25
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaMedia,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaMedia3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaMedia,
+    }
+
+    item YerbaPremium
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaPremium,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaPremium3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaPremium,
+    }
+
+    item YerbaPremium25
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaPremium,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaPremium3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaPremium,
+    }
+
+    item YerbaPremium26
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaPremium,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaPremium3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaPremium,
+    }
+
+    item YerbaPremium27
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaPremium,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaPremium3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaPremium,
+    }
+
+    item YerbaPremium28
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaPremium,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaPremium3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaPremium,
+    }
+
+    item YerbaPremium29
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaPremium,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaPremium3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaPremium,
+    }
+
+    item YerbaPremium30
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaPremium,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaPremium3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaPremium,
+    }
+
+    item YerbaPremium31
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaPremium,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaPremium3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaPremium,
+    }
+
+    item YerbaPremium32
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaPremium,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaPremium3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaPremium,
+    }
+
+    item YerbaPremium33
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaPremium,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaPremium3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaPremium,
+    }
+
+    item YerbaPremium34
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaPremium,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaPremium3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaPremium,
+    }
+
+    item YerbaPremium35
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaPremium,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaPremium3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaPremium,
+    }
+
+    item YerbaPremium36
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaPremium,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaPremium3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaPremium,
+    }
+
+    item YerbaPremium37
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaPremium,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaPremium3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaPremium,
+    }
+
+    item YerbaPremium38
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaPremium,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaPremium3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaPremium,
+    }
+
+    item YerbaPremium39
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaPremium,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaPremium3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaPremium,
+    }
+
+    item YerbaPremium40
+    {
+        DisplayCategory = Food,
+        ItemType = base:food,
+        Weight = 0.5,
+        Icon = YerbaPremium,
+        WorldStaticModel = MateArgentino.MateArgentino_YerbaPremium3D,
+        FoodType = Yerba,
+        Packaged = true,
+        HungerChange = -25.0,
+        ThirstChange = 40.0,
+        fatigueChange = -20.0,
+        UnhappyChange = 10,
+        Calories = 15.0,
+        Carbohydrates = 3.0,
+        Lipids = 0.0,
+        Proteins = 1.0,
+        CantEat = true,
+        Tooltip = Tooltip_MateArgentino_YerbaPremium,
+    }
+
+    item MateVacio
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.2,
+        Icon = MateVacio,
+        StaticModel = MateArgentino.MateArgentino_MateVacio3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateVacio3D,
+        Tooltip = Tooltip_MateArgentino_MateVacio,
+    }
+
+    item MateConYerba1
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes1,
+    }
+
+    item MateConYerba2
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes2,
+    }
+
+    item MateConYerba3
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes3,
+    }
+
+    item MateConYerba4
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes4,
+    }
+
+    item MateConYerba5
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes5,
+    }
+
+    item MateConYerba6
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes6,
+    }
+
+    item MateConYerba7
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes7,
+    }
+
+    item MateConYerba8
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes8,
+    }
+
+    item MateConYerba9
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes9,
+    }
+
+    item MateConYerba10
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes10,
+    }
+
+    item MateConYerba11
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes11,
+    }
+
+    item MateConYerba12
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes12,
+    }
+
+    item MateConYerba13
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes13,
+    }
+
+    item MateConYerba14
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes14,
+    }
+
+    item MateConYerba15
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes15,
+    }
+
+    item MateConYerba16
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes16,
+    }
+
+    item MateConYerba17
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes17,
+    }
+
+    item MateConYerba18
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes18,
+    }
+
+    item MateConYerba19
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes19,
+    }
+
+    item MateConYerba20
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes20,
+    }
+
+    item MateConYerba21
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes21,
+    }
+
+    item MateConYerba22
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes22,
+    }
+
+    item MateConYerba23
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes23,
+    }
+
+    item MateConYerba24
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes24,
+    }
+
+    item MateConYerba25
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes25,
+    }
+
+    item MateConYerba26
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes26,
+    }
+
+    item MateConYerba27
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes27,
+    }
+
+    item MateConYerba28
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes28,
+    }
+
+    item MateConYerba29
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes29,
+    }
+
+    item MateConYerba30
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes30,
+    }
+
+    item MateConYerba31
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes31,
+    }
+
+    item MateConYerba32
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes32,
+    }
+
+    item MateConYerba33
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes33,
+    }
+
+    item MateConYerba34
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes34,
+    }
+
+    item MateConYerba35
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes35,
+    }
+
+    item MateConYerba36
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes36,
+    }
+
+    item MateConYerba37
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes37,
+    }
+
+    item MateConYerba38
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes38,
+    }
+
+    item MateConYerba39
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes39,
+    }
+
+    item MateConYerba40
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateConYerba3D,
+        Tooltip = Tooltip_MateArgentino_Restantes40,
+    }
+
+    item MateLavado
+    {
+        DisplayCategory = Cooking,
+        ItemType = base:normal,
+        Weight = 0.3,
+        Icon = MateLavado,
+        StaticModel = MateArgentino.MateArgentino_MateLavado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MateLavado3D,
+        Tooltip = Tooltip_MateArgentino_MateLavado,
+    }
+
+    item MatePreparado1
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado1,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado2
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado2,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado3
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado3,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado4
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado4,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado5
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado5,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado6
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado6,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado7
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado7,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado8
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado8,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado9
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado9,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado10
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado10,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado11
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado11,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado12
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado12,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado13
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado13,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado14
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado14,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado15
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado15,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado16
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado16,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado17
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado17,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado18
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado18,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado19
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado19,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado20
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado20,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado21
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado21,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado22
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado22,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado23
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado23,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado24
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado24,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado25
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado25,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado26
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado26,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado27
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado27,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado28
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado28,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado29
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado29,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado30
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado30,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado31
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado31,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado32
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado32,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado33
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado33,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado34
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado34,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado35
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado35,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado36
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado36,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado37
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado37,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado38
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado38,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado39
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado39,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparado40
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_Preparado40,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusion:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente1
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente1,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente2
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente2,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente3
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente3,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente4
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente4,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente5
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente5,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente6
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente6,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente7
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente7,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente8
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente8,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente9
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente9,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente10
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente10,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente11
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente11,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente12
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente12,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente13
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente13,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente14
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente14,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente15
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente15,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente16
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente16,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente17
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente17,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente18
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente18,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente19
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente19,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente20
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente20,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente21
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente21,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente22
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente22,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente23
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente23,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente24
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente24,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente25
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente25,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente26
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente26,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente27
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente27,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente28
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente28,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente29
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente29,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente30
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente30,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente31
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente31,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente32
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente32,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente33
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente33,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente34
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente34,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente35
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente35,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente36
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente36,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente37
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente37,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente38
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente38,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente39
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente39,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item MatePreparadoCaliente40
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.5,
+        Icon = MatePreparado,
+        StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
+        EatType = Mate,
+        Tooltip = Tooltip_MateArgentino_PreparadoCaliente40,
+        
+        component FluidContainer
+        {
+            ContainerName = Mate,
+            Capacity = 0.045,
+            TransferRate = 0.045,
+            CustomDrinkSound = MateArgentino_RuidoMate,
+            Fluids
+            {
+                fluid = MateInfusionHot:0.045,
+            }
+        }
+    }
+
+    item Termo
+    {
+        DisplayCategory = WaterContainer,
+        ItemType = base:normal,
+        Weight = 0.8,
+        Icon = Termo,
+        StaticModel = MateArgentino.MateArgentino_Termo3D,
+        WorldStaticModel = MateArgentino.MateArgentino_Termo3D,
+        FillFromDispenserSound = GetWaterFromDispenserMetalMedium,
+        FillFromLakeSound = GetWaterFromLakeBottle,
+        FillFromTapSound = GetWaterFromTapMetalMedium,
+        FillFromToiletSound = GetWaterFromToilet,
+        CookingSound = BoilingFood,
+        Tags = base:cookable,
+        Tooltip = Tooltip_MateArgentino_Termo,
+        
+        component FluidContainer
+        {
+            ContainerName = Termo,
+            Capacity = 1.0,
+            TransferRate = 1.0,
+            CustomDrinkSound = DrinkingFromBottle,
+        }
+    }
+
+}

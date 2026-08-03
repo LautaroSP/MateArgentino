@@ -1,0 +1,82 @@
+module MateArgentino
+{
+    model MateArgentino_MateVacio3D
+    {
+        mesh = MateArgentino/MateVacio3D,
+        texture = MateArgentino/MateVacio3D,
+        scale = 0.0024,
+        attachment Bip01_Prop2
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+            scale = 1.0,
+        }
+    }
+
+    model MateArgentino_MateConYerba3D
+    {
+        mesh = MateArgentino/MateConYerba3D,
+        texture = MateArgentino/MateConYerba3D,
+        scale = 0.0024,
+        attachment Bip01_Prop2
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+            scale = 1.0,
+        }
+    }
+
+    model MateArgentino_MatePreparado3D
+    {
+        mesh = MateArgentino/MatePreparado3D,
+        texture = MateArgentino/MatePreparado3D,
+        scale = 0.0024,
+        attachment Bip01_Prop2
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+            scale = 1.0,
+        }
+    }
+
+    model MateArgentino_MateLavado3D
+    {
+        mesh = MateArgentino/MateLavado3D,
+        texture = MateArgentino/MateLavado3D,
+        scale = 0.0024,
+        attachment Bip01_Prop2
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+            scale = 1.0,
+        }
+    }
+
+    model MateArgentino_Termo3D
+    {
+        mesh = MateArgentino/Termo3D,
+        texture = MateArgentino/Termo3D,
+        scale = 0.0033,
+    }
+
+    model MateArgentino_YerbaEconomica3D
+    {
+        mesh = MateArgentino/YerbaEconomica3D,
+        texture = MateArgentino/YerbaEconomica3D,
+        scale = 0.005,
+    }
+
+    model MateArgentino_YerbaMedia3D
+    {
+        mesh = MateArgentino/YerbaMedia3D,
+        texture = MateArgentino/YerbaMedia3D,
+        scale = 0.005,
+    }
+
+    model MateArgentino_YerbaPremium3D
+    {
+        mesh = MateArgentino/YerbaPremium3D,
+        texture = MateArgentino/YerbaPremium3D,
+        scale = 0.005,
+    }
+}

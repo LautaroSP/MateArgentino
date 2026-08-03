@@ -1,0 +1,23 @@
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Blender automatic backups
+*.blend1
+*.blend2
+
+# Temporary and backup files
+*.bak
+*.tmp
+*.log
+*_error.log
+
+# Generated animation frames (the assembled preview is kept)
+art-3d/animation-preview/frames/
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
