@@ -7,7 +7,7 @@ module Base
         clip
         {
             file = media/sound/MateArgentino_RuidoMate.mp3,
-            distanceMax = 12,
+            distanceMax = 6,
             volume = 0.8,
         }
     }

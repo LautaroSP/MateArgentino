@@ -69,7 +69,6 @@ module MateArgentino
         {
             item 1 [MateArgentino.MateConYerba40;MateArgentino.MateConYerba39;MateArgentino.MateConYerba38;MateArgentino.MateConYerba37;MateArgentino.MateConYerba36;MateArgentino.MateConYerba35;MateArgentino.MateConYerba34;MateArgentino.MateConYerba33;MateArgentino.MateConYerba32;MateArgentino.MateConYerba31;MateArgentino.MateConYerba30;MateArgentino.MateConYerba29;MateArgentino.MateConYerba28;MateArgentino.MateConYerba27;MateArgentino.MateConYerba26;MateArgentino.MateConYerba25;MateArgentino.MateConYerba24;MateArgentino.MateConYerba23;MateArgentino.MateConYerba22;MateArgentino.MateConYerba21;MateArgentino.MateConYerba20;MateArgentino.MateConYerba19;MateArgentino.MateConYerba18;MateArgentino.MateConYerba17;MateArgentino.MateConYerba16;MateArgentino.MateConYerba15;MateArgentino.MateConYerba14;MateArgentino.MateConYerba13;MateArgentino.MateConYerba12;MateArgentino.MateConYerba11;MateArgentino.MateConYerba10;MateArgentino.MateConYerba9;MateArgentino.MateConYerba8;MateArgentino.MateConYerba7;MateArgentino.MateConYerba6;MateArgentino.MateConYerba5;MateArgentino.MateConYerba4;MateArgentino.MateConYerba3;MateArgentino.MateConYerba2;MateArgentino.MateConYerba1] mode:destroy flags[Prop2] mappers[mateState],
             item 1 [MateArgentino.Termo] mode:keep flags[NotEmpty;Prop1],
-            -fluid 0.045 [Water],
         }
         outputs
         {
@@ -131,7 +130,6 @@ module MateArgentino
         {
             item 1 [MateArgentino.MateConYerba40;MateArgentino.MateConYerba39;MateArgentino.MateConYerba38;MateArgentino.MateConYerba37;MateArgentino.MateConYerba36;MateArgentino.MateConYerba35;MateArgentino.MateConYerba34;MateArgentino.MateConYerba33;MateArgentino.MateConYerba32;MateArgentino.MateConYerba31;MateArgentino.MateConYerba30;MateArgentino.MateConYerba29;MateArgentino.MateConYerba28;MateArgentino.MateConYerba27;MateArgentino.MateConYerba26;MateArgentino.MateConYerba25;MateArgentino.MateConYerba24;MateArgentino.MateConYerba23;MateArgentino.MateConYerba22;MateArgentino.MateConYerba21;MateArgentino.MateConYerba20;MateArgentino.MateConYerba19;MateArgentino.MateConYerba18;MateArgentino.MateConYerba17;MateArgentino.MateConYerba16;MateArgentino.MateConYerba15;MateArgentino.MateConYerba14;MateArgentino.MateConYerba13;MateArgentino.MateConYerba12;MateArgentino.MateConYerba11;MateArgentino.MateConYerba10;MateArgentino.MateConYerba9;MateArgentino.MateConYerba8;MateArgentino.MateConYerba7;MateArgentino.MateConYerba6;MateArgentino.MateConYerba5;MateArgentino.MateConYerba4;MateArgentino.MateConYerba3;MateArgentino.MateConYerba2;MateArgentino.MateConYerba1] mode:destroy flags[Prop2] mappers[mateState],
             item 1 [MateArgentino.Termo] mode:keep flags[NotEmpty;Prop1],
-            -fluid 0.045 [HotWater],
         }
         outputs
         {

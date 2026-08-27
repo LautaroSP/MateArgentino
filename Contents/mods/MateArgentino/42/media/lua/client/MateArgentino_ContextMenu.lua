@@ -9,7 +9,7 @@ for remaining = 1, 40 do
     NEXT_DRY_MATE["MateArgentino.MatePreparadoCaliente" .. remaining] = nextType
 end
 
-local function recoverEmptyMates(container)
+local function recoverEmptyMates(container, playerIndex)
     if not container then
         return
     end
@@ -19,7 +19,7 @@ local function recoverEmptyMates(container)
         local item = items:get(index)
 
         if instanceof(item, "InventoryContainer") then
-            recoverEmptyMates(item:getInventory())
+            recoverEmptyMates(item:getInventory(), playerIndex)
         end
 
         local nextType = NEXT_DRY_MATE[item:getFullType()]
@@ -30,12 +30,18 @@ local function recoverEmptyMates(container)
                 or fluidContainer:getAmount() <= EMPTY_THRESHOLD)
 
         if actionFinished and isEmpty then
-            local favorite = item:isFavorite()
-            container:Remove(item)
-
-            local dryMate = container:AddItem(nextType)
-            if dryMate then
-                dryMate:setFavorite(favorite)
+            if isClient() then
+                sendClientCommand("MateArgentino", "RecoverMate", {
+                    playerIndex = playerIndex,
+                    fullType = item:getFullType(),
+                })
+            else
+                local favorite = item:isFavorite()
+                container:Remove(item)
+                local dryMate = container:AddItem(nextType)
+                if dryMate then
+                    dryMate:setFavorite(favorite)
+                end
             end
 
             triggerEvent("OnContainerUpdate")
@@ -54,7 +60,7 @@ local function recoverPlayerMates()
     for playerIndex = 0, getNumActivePlayers() - 1 do
         local player = getSpecificPlayer(playerIndex)
         if player then
-            recoverEmptyMates(player:getInventory())
+            recoverEmptyMates(player:getInventory(), playerIndex)
         end
     end
 end
