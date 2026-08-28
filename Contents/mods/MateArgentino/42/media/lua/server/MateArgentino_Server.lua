@@ -37,7 +37,11 @@ local function onRecoverMate(player, args)
     end
 
     local fullType = args.fullType
-    local nextType = args.nextType or "MateArgentino.MateLavado"
+    local nextType = args.nextType
+    if not fullType or not nextType then
+        return
+    end
+
     local inventory = player:getInventory()
     local items = inventory:getItems()
     for i = items:size() - 1, 0, -1 do
@@ -69,14 +73,12 @@ if not MateArgentino_ServerInstalled then
         RecoverMate = onRecoverMate,
     }
 
-    Events.OnClientCommand.Add(function(module, command, args)
+    Events.OnClientCommand.Add(function(module, command, player, args)
         if module ~= "MateArgentino" then
             return
         end
         local handler = commands[command]
         if handler then
-            local player = args and args.playerIndex
-                and getSpecificPlayer(args.playerIndex)
             handler(player, args or {})
         end
     end)
