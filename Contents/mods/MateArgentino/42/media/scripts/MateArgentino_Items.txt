@@ -1,4 +1,4 @@
-module MateArgentino
+﻿module MateArgentino
 {
 
     item Yerba
@@ -1248,7 +1248,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado1,
         
         component FluidContainer
@@ -1272,7 +1273,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado2,
         
         component FluidContainer
@@ -1296,7 +1298,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado3,
         
         component FluidContainer
@@ -1320,7 +1323,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado4,
         
         component FluidContainer
@@ -1344,7 +1348,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado5,
         
         component FluidContainer
@@ -1368,7 +1373,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado6,
         
         component FluidContainer
@@ -1392,7 +1398,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado7,
         
         component FluidContainer
@@ -1416,7 +1423,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado8,
         
         component FluidContainer
@@ -1440,7 +1448,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado9,
         
         component FluidContainer
@@ -1464,7 +1473,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado10,
         
         component FluidContainer
@@ -1488,7 +1498,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado11,
         
         component FluidContainer
@@ -1512,7 +1523,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado12,
         
         component FluidContainer
@@ -1536,7 +1548,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado13,
         
         component FluidContainer
@@ -1560,7 +1573,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado14,
         
         component FluidContainer
@@ -1584,7 +1598,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado15,
         
         component FluidContainer
@@ -1608,7 +1623,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado16,
         
         component FluidContainer
@@ -1632,7 +1648,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado17,
         
         component FluidContainer
@@ -1656,7 +1673,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado18,
         
         component FluidContainer
@@ -1680,7 +1698,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado19,
         
         component FluidContainer
@@ -1704,7 +1723,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado20,
         
         component FluidContainer
@@ -1728,7 +1748,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado21,
         
         component FluidContainer
@@ -1752,7 +1773,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado22,
         
         component FluidContainer
@@ -1776,7 +1798,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado23,
         
         component FluidContainer
@@ -1800,7 +1823,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado24,
         
         component FluidContainer
@@ -1824,7 +1848,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado25,
         
         component FluidContainer
@@ -1848,7 +1873,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado26,
         
         component FluidContainer
@@ -1872,7 +1898,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado27,
         
         component FluidContainer
@@ -1896,7 +1923,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado28,
         
         component FluidContainer
@@ -1920,7 +1948,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado29,
         
         component FluidContainer
@@ -1944,7 +1973,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado30,
         
         component FluidContainer
@@ -1968,7 +1998,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado31,
         
         component FluidContainer
@@ -1992,7 +2023,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado32,
         
         component FluidContainer
@@ -2016,7 +2048,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado33,
         
         component FluidContainer
@@ -2040,7 +2073,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado34,
         
         component FluidContainer
@@ -2064,7 +2098,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado35,
         
         component FluidContainer
@@ -2088,7 +2123,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado36,
         
         component FluidContainer
@@ -2112,7 +2148,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado37,
         
         component FluidContainer
@@ -2136,7 +2173,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado38,
         
         component FluidContainer
@@ -2160,7 +2198,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado39,
         
         component FluidContainer
@@ -2184,7 +2223,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_Preparado40,
         
         component FluidContainer
@@ -2208,7 +2248,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente1,
         
         component FluidContainer
@@ -2232,7 +2273,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente2,
         
         component FluidContainer
@@ -2256,7 +2298,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente3,
         
         component FluidContainer
@@ -2280,7 +2323,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente4,
         
         component FluidContainer
@@ -2304,7 +2348,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente5,
         
         component FluidContainer
@@ -2328,7 +2373,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente6,
         
         component FluidContainer
@@ -2352,7 +2398,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente7,
         
         component FluidContainer
@@ -2376,7 +2423,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente8,
         
         component FluidContainer
@@ -2400,7 +2448,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente9,
         
         component FluidContainer
@@ -2424,7 +2473,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente10,
         
         component FluidContainer
@@ -2448,7 +2498,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente11,
         
         component FluidContainer
@@ -2472,7 +2523,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente12,
         
         component FluidContainer
@@ -2496,7 +2548,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente13,
         
         component FluidContainer
@@ -2520,7 +2573,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente14,
         
         component FluidContainer
@@ -2544,7 +2598,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente15,
         
         component FluidContainer
@@ -2568,7 +2623,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente16,
         
         component FluidContainer
@@ -2592,7 +2648,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente17,
         
         component FluidContainer
@@ -2616,7 +2673,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente18,
         
         component FluidContainer
@@ -2640,7 +2698,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente19,
         
         component FluidContainer
@@ -2664,7 +2723,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente20,
         
         component FluidContainer
@@ -2688,7 +2748,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente21,
         
         component FluidContainer
@@ -2712,7 +2773,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente22,
         
         component FluidContainer
@@ -2736,7 +2798,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente23,
         
         component FluidContainer
@@ -2760,7 +2823,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente24,
         
         component FluidContainer
@@ -2784,7 +2848,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente25,
         
         component FluidContainer
@@ -2808,7 +2873,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente26,
         
         component FluidContainer
@@ -2832,7 +2898,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente27,
         
         component FluidContainer
@@ -2856,7 +2923,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente28,
         
         component FluidContainer
@@ -2880,7 +2948,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente29,
         
         component FluidContainer
@@ -2904,7 +2973,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente30,
         
         component FluidContainer
@@ -2928,7 +2998,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente31,
         
         component FluidContainer
@@ -2952,7 +3023,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente32,
         
         component FluidContainer
@@ -2976,7 +3048,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente33,
         
         component FluidContainer
@@ -3000,7 +3073,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente34,
         
         component FluidContainer
@@ -3024,7 +3098,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente35,
         
         component FluidContainer
@@ -3048,7 +3123,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente36,
         
         component FluidContainer
@@ -3072,7 +3148,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente37,
         
         component FluidContainer
@@ -3096,7 +3173,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente38,
         
         component FluidContainer
@@ -3120,7 +3198,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente39,
         
         component FluidContainer
@@ -3144,7 +3223,8 @@ module MateArgentino
         Icon = MatePreparado,
         StaticModel = MateArgentino.MateArgentino_MatePreparado3D,
         WorldStaticModel = MateArgentino.MateArgentino_MatePreparado3D,
-        EatType = Mate,
+        EatType = Drink,
+        FoodType = mate,
         Tooltip = Tooltip_MateArgentino_PreparadoCaliente40,
         
         component FluidContainer

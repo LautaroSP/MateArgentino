@@ -34,6 +34,7 @@ local function recoverEmptyMates(container, playerIndex)
                 sendClientCommand("MateArgentino", "RecoverMate", {
                     playerIndex = playerIndex,
                     fullType = item:getFullType(),
+                    nextType = nextType,
                 })
             else
                 local favorite = item:isFavorite()

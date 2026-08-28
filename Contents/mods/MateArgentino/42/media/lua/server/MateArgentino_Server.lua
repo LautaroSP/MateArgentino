@@ -37,6 +37,7 @@ local function onRecoverMate(player, args)
     end
 
     local fullType = args.fullType
+    local nextType = args.nextType or "MateArgentino.MateLavado"
     local inventory = player:getInventory()
     local items = inventory:getItems()
     for i = items:size() - 1, 0, -1 do
@@ -50,7 +51,7 @@ local function onRecoverMate(player, args)
             if isEmpty then
                 local favorite = item:isFavorite()
                 inventory:Remove(item)
-                local dryMate = inventory:AddItem("MateArgentino.MateLavado")
+                local dryMate = inventory:AddItem(nextType)
                 if dryMate then
                     dryMate:setFavorite(favorite)
                 end

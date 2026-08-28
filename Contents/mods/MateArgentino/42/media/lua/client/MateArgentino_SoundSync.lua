@@ -10,8 +10,8 @@ local function isMateAction(action)
         return true
     end
     return action.item ~= nil
-        and action.item.getEatType ~= nil
-        and action.item:getEatType() == "Mate"
+        and action.item.getFoodType ~= nil
+        and action.item:getFoodType() == "mate"
 end
 
 local function stopMateSound(action)
